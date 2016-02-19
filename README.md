@@ -6,8 +6,8 @@ The idea behind this technical test is for you to show us what you can do. You a
 # Instructions
 
 1. Download the ZIP file from the DST Systems GitHub account: https://github.com/dstsystems/web-designer
-2. View the finished product in the JPG file within the Source files folder
-3. You are free to fill any images placeholders on the JPG with any images you have.
+2. The look of the final page can be views in the tech-test.jpg file
+3. You are free to fill any images placeholders on the JPG with any images you have
 4. Your final build must be responsive and be viewable in mobile devices
 5. When you've finished, zip up all your files and name the zip file your name
 
