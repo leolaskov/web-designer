@@ -15,6 +15,7 @@ The idea behind this technical test is for you to show us what you can do. You a
 1. All fonts used are in the Google fonts library.
   * Open Sans font is used for all content text
 2. All colour codes can be pulled from JPG files
+3. Please use div and not tables to create the layout
 
 # What we're looking for
 
