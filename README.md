@@ -1,7 +1,7 @@
 # web-designer
-A technical test aimed at potential Junior Web Designer candidates. A chance for them to show off their Front-end skills.
+A technical test aimed at potential Web Designer candidates. A chance for them to show off their Front-end skills.
 
-The idea behind this technical test is for you to show us what you can do. You are free to use any framework and libraries you wish but the finished product must look like the JPGs within the Source files folder.
+The idea behind this technical test is for you to show us what you can do. You are free to use any framework and libraries you wish but the finished product must look like the JPG found with this test.
 
 # Instructions
 
